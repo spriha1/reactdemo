@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Counter from './components/counter';
 import Counter1 from './components/counter1';
 
-ReactDOM.render(<Counter1 />, document.getElementById('root'));
+ReactDOM.render(<Counter />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
